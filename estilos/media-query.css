@@ -26,9 +26,9 @@
          #5f2c82);
     }
     section#login {
-        width: 950px
+        width: 950px;
     }
-}
+
 
 section#login > div#imagem {
     float: left;
@@ -38,5 +38,6 @@ section#login > div#imagem {
 
 section#login > div#formulario {
     float: right;
-    width: 50%
+    width: 50%;
+}
 }
