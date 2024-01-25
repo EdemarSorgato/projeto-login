@@ -38,7 +38,7 @@ section#login {
     border-radius: 20px;
     box-shadow: 2px 2px 10px black;
 
-    transition: width 1s, heigt 1s;
+    transition: width 0.5s, heigt 0.5s;
     transition-timing-function: ease;
 }
 
@@ -53,5 +53,14 @@ section#login > div#imagem {
 section#login > div#formulario {
     display: block;
     padding: 10px;
+}
+
+div#formulario h1 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+div#formulario > p {
+    font-size: 0.8em;
 }
 
